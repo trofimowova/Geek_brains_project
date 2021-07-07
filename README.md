@@ -1,2 +1,2 @@
-# Geek_brains_project
-study for life
+# Geek_brains
+homework
